@@ -1,4 +1,3 @@
-
 export class DataProviderXYZ {
     /**
      * In a data provider, in the way that I usually build them,
